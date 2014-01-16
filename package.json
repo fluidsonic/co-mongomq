@@ -1,0 +1,24 @@
+{
+  "name": "co-mongomq",
+  "version": "0.3.4",
+  "description": "co wrapper for mongomq package.",
+  "keywords": [
+    "co",
+    "mongodb",
+    "queue",
+    "generators"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fluidsonic/co-mongomq",
+  "bugs": "https://github.com/fluidsonic/co-mongomq/issues",
+  "author": "Marc Knaup <marc.knaup@koeln.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluidsonic/co-mongomq.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "co": "~3.0.2",
+    "mongomq": "0.3.4"
+  }
+}
